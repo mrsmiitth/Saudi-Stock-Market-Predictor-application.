@@ -1,0 +1,16 @@
+{
+  "market": {
+    "default_period": "5y",
+    "update_frequency_days": 7
+  },
+  "model": {
+    "seq_length": 30,
+    "epochs": 50,
+    "batch_size": 32,
+    "learning_rate": 0.001
+  },
+  "prediction": {
+    "forecast_days": 180,
+    "confidence_interval": 0.9
+  }
+}

@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and model files (optional, if you don't want to commit these)
+data/
+models/
+predictions/
+charts/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local environment variables
+.env
+
+# Logs
+*.log
