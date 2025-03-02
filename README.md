@@ -1,1 +1,1 @@
-# Saudi-Stock-Market-Predictor-application.
+saudi-stock-predictor
